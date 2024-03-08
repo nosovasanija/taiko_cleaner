@@ -1,26 +1,27 @@
 {
-  "name": "taiko_cleane",
+  "name": "taiko_cleaner",
   "version": "1.0.1",
-  "description": "taiko node cleane",
+  "description": "taiko node cleaner",
   "main": "start_clean.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "shardeum",
+    "taiko",
     "node",
+    "helper",
     "monitoring"
   ],
-  "author": "Cqunngh",
+  "author": "nosovasanija",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/nosovasanija/taiko_cleaner.git"
   },
   "bugs": {
-    "url": "https://github.com/malininaberla/shardeum_monitor/issues"
+    "url": "https://github.com/nosovasanija/taiko_cleaner/issues"
   },
-  "homepage": "https://github.com/malininaberla/shardeum_monitor#readme",
+  "homepage": "https://github.com/nosovasanija/taiko_cleaner#readme",
   "dependencies": {
     "emoji-poop": "^1.3.0",
     "request-ip": "^3.3.0"
