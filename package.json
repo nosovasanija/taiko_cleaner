@@ -1,6 +1,6 @@
 {
   "name": "taiko_cleaner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "taiko node cleaner",
   "main": "start_clean.js",
   "scripts": {
